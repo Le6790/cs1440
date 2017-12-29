@@ -1,0 +1,4 @@
+area_fips	annual_avg_estabs	annual_avg_emplvl	total_annual_wages
+78010	1295	14374	583765877	
+78020	300	2407	86959709	
+78030	1802	21379	848284929	
